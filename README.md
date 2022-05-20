@@ -1,6 +1,8 @@
 # LeetCodeChallenge
 Blind 75 
-# CREATE YOUR BRANCH AND FILL SOLUTIONS IN YOUR FOLDER 
+## CREATE YOUR BRANCH AND FILL SOLUTIONS IN YOUR FOLDER 
+# Guide 
+[14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 # Array
 
 
